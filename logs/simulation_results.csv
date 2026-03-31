@@ -1,0 +1,16 @@
+farmer,district,irrigation_events,water_applied_mm,energy_kwh,cost_inr,stress_days,mean_ks
+Blind,Baghpat,37,2960.0,424.48,2016.26,0,0.9985
+ELISA Minor,Baghpat,12,840.0,137.67,653.92,0,0.9984
+ELISA Major,Baghpat,15,1050.0,172.08,817.4,0,1.0
+Blind,Shamli,37,2960.0,424.48,2016.26,0,0.9987
+ELISA Minor,Shamli,11,770.0,126.2,599.43,0,0.9988
+ELISA Major,Shamli,14,980.0,160.61,762.91,0,1.0
+Blind,Meerut,37,2960.0,424.48,2016.26,0,0.9985
+ELISA Minor,Meerut,12,840.0,137.67,653.92,0,0.9984
+ELISA Major,Meerut,15,1050.0,172.08,817.4,0,1.0
+Blind,Muzaffarnagar,37,2960.0,424.48,2016.26,0,0.9987
+ELISA Minor,Muzaffarnagar,11,770.0,126.2,599.43,0,0.9988
+ELISA Major,Muzaffarnagar,14,980.0,160.61,762.91,0,1.0
+Blind,Ghaziabad,37,2960.0,424.48,2016.26,0,0.9984
+ELISA Minor,Ghaziabad,12,840.0,137.67,653.92,0,0.9984
+ELISA Major,Ghaziabad,15,1050.0,172.08,817.4,0,1.0

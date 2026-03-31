@@ -1,0 +1,14 @@
+{
+  "farm_id": "8b33160f",
+  "name": "My Shamli Farm",
+  "village": "Shamli",
+  "district": "Shamli",
+  "nearest_district": "Shamli",
+  "centroid_lat": 29.4483494,
+  "centroid_lon": 77.3087719,
+  "polygon": null,
+  "area_ha": 1.5,
+  "crop": "Wheat",
+  "pump_hp": 5.0,
+  "registered": "2026-03-22"
+}
